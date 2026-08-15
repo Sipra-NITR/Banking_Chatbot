@@ -165,6 +165,11 @@ Please block your debit card immediately and request a replacement through the m
 
 ---
 
+##Screenshots
+--HomePage-->Screenshots/HomePage.png
+--ResultPage-->Screenshots/ResultPage.png
+
+
 ## 🔮 Future Enhancements
 
 - Deep Learning (LSTM/BERT)
