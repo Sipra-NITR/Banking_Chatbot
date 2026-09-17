@@ -165,10 +165,12 @@ Please block your debit card immediately and request a replacement through the m
 
 ---
 
-##Screenshots
---HomePage-->Screenshots/HomePage.png
---ResultPage-->Screenshots/ResultPage.png
+## Screenshots
+### Home Page
+<img width="1366" height="626" alt="image" src="https://github.com/user-attachments/assets/c78860ea-cfb3-40e2-bd31-4dde2dad05e8" />
 
+### Result Page
+<img width="1366" height="637" alt="image" src="https://github.com/user-attachments/assets/308dcf56-ae14-4e9c-85dc-025f966db600" />
 
 ## 🔮 Future Enhancements
 
